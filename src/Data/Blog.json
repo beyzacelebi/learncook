@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "title": "Can You Freeze Cooked Rice? Yes, Here’s How",
+    "author": "Kelsey Dimberg",
+    "date": "Sep. 26, 2024",
+    "readTime": "6 min read",
+    "tags": ["Frozen Foods", "Toxification"],
+    "excerpt": "Can you freeze cooked rice? Absolutely, and you can still preserve the flavor and moisture and ensure it's safe to eat.",
+    "image": "/assets/blog1.jpg",
+    "content": "-Article content-"
+  },
+  {
+    "id": "2",
+    "title": "3 Store-Bought Salad Dressings You Should Always Have in Your Fridge",
+    "author": "Ayla Clulee",
+    "date": "May 15, 2020",
+    "readTime": "3 min read",
+    "tags": ["Appetizers", "Turkish Cuisine"],
+    "excerpt": "I am a lover of homemade salad dressings. I keep an assortment of oils, vinegars, mustards, herbs, and spices on hand...",
+    "image": "/assets/blog2.jpeg",
+    "content": "-Article content-"
+  },
+  {
+    "id": "3",
+    "title": "How a California Family of 4 Spends $354 a Week on Groceries",
+    "author": "Ayeh Manfre",
+    "date": "Sep 5, 2024",
+    "readTime": "5 min read",
+    "tags": ["East Asia", "Trend Recipes"],
+    "excerpt": "Stay-at-home mom, carnivore content creator and cookbook author; spouse is in finance.",
+    "image": "/assets/blog3.jpeg",
+    "content": "-Article content-"
+  },
+  {
+    "id": "4",
+    "title": "Top 5 Healthy Breakfast Ideas",
+    "author": "Jane Doe",
+    "date": "Aug 1, 2024",
+    "readTime": "4 min read",
+    "tags": ["Healthy", "Breakfast"],
+    "excerpt": "Start your day with these delicious and nutritious breakfast recipes.",
+    "image": "/assets/blog4.jpg",
+    "content": "-Article content-"
+  }
+]

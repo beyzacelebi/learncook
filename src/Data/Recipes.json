@@ -1,0 +1,355 @@
+[
+  {
+    "id": "1",
+    "title": "Baklava",
+    "description": "Layers of filo pastry filled with chopped nuts and sweetened with syrup or honey.",
+    "cuisine": "turkish",
+    "date": "2024-08-01",
+    "image": "/assets/recipes/baklava.jpg",
+    "tags": ["Turkish", "Dessert", "Sweet"],
+    "author": "Mehmet Yılmaz",
+    "ingredients": [
+      "500g filo pastry",
+      "300g mixed nuts (walnuts, pistachios, almonds)",
+      "250g butter, melted",
+      "300g sugar",
+      "200ml water",
+      "100ml honey",
+      "1 tsp lemon juice"
+    ],
+    "instructions": [
+      "Preheat oven to 180°C (350°F).",
+      "Layer filo pastry in a baking dish, brushing each sheet with butter.",
+      "Sprinkle chopped nuts between every few layers.",
+      "Cut into diamond shapes before baking.",
+      "Bake for 45 minutes until golden.",
+      "Make syrup with sugar, water, honey, and lemon juice; pour over hot baklava."
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Menemen",
+    "description": "A traditional Turkish breakfast dish of eggs scrambled with tomatoes, peppers, and spices.",
+    "cuisine": "turkish",
+    "date": "2024-08-02",
+    "image": "/assets/recipes/menemen.webp",
+    "tags": ["Turkish", "Breakfast", "Vegetarian"],
+    "author": "Ayla Demir",
+    "ingredients": [
+      "4 eggs",
+      "3 tomatoes, diced",
+      "2 green peppers, sliced",
+      "2 tbsp olive oil",
+      "Salt and pepper",
+      "Optional: feta cheese"
+    ],
+    "instructions": [
+      "Heat olive oil in a pan.",
+      "Add peppers and sauté until soft.",
+      "Add tomatoes, cook until slightly thickened.",
+      "Crack in eggs and stir until softly scrambled.",
+      "Season with salt and pepper, serve with bread."
+    ]
+  },
+  {
+    "id": "3",
+    "title": "İskender Kebab",
+    "description": "Thinly sliced doner meat served over pita bread with tomato sauce and yogurt.",
+    "cuisine": "turkish",
+    "date": "2024-08-03",
+    "image": "/assets/recipes/iskender.jpg",
+    "tags": ["Turkish", "Main Course", "Kebab"],
+    "author": "Ahmet Kaya",
+    "ingredients": [
+      "300g doner meat",
+      "2 pita breads",
+      "200g tomato sauce",
+      "50g butter",
+      "200g yogurt",
+      "Salt"
+    ],
+    "instructions": [
+      "Warm pita bread and cut into cubes.",
+      "Heat tomato sauce and season with salt.",
+      "Arrange pita on a plate, top with meat and tomato sauce.",
+      "Melt butter and drizzle over.",
+      "Serve with yogurt on the side."
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Tiramisu",
+    "description": "Classic Italian dessert made with coffee-soaked ladyfingers and mascarpone cream.",
+    "cuisine": "italian",
+    "date": "2024-08-04",
+    "image": "/assets/recipes/tiramisu.jpg",
+    "tags": ["Italian", "Dessert", "Coffee"],
+    "author": "Giovanni Rossi",
+    "ingredients": [
+      "200g ladyfingers",
+      "250g mascarpone",
+      "3 eggs",
+      "100g sugar",
+      "200ml espresso coffee",
+      "Cocoa powder"
+    ],
+    "instructions": [
+      "Separate egg yolks and whites.",
+      "Whisk yolks with sugar until pale, add mascarpone.",
+      "Whisk whites to stiff peaks and fold in.",
+      "Dip ladyfingers in coffee and layer with cream.",
+      "Dust with cocoa powder and chill for 4 hours."
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Fettuccine Alfredo",
+    "description": "Creamy pasta dish made with butter, cream, and Parmesan cheese.",
+    "cuisine": "italian",
+    "date": "2024-08-05",
+    "image": "/assets/recipes/fettuccine-alfredo.jpg",
+    "tags": ["Italian", "Pasta", "Main Course"],
+    "author": "Maria Bianchi",
+    "ingredients": [
+      "250g fettuccine pasta",
+      "50g butter",
+      "200ml cream",
+      "50g Parmesan cheese",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Cook pasta until al dente.",
+      "Melt butter in a pan, add cream and simmer.",
+      "Add Parmesan, stir until smooth.",
+      "Toss pasta in sauce, season with salt and pepper."
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Caprese Salad",
+    "description": "Simple salad of tomatoes, mozzarella, and fresh basil with olive oil.",
+    "cuisine": "italian",
+    "date": "2024-08-06",
+    "image": "/assets/recipes/caprese.jpg",
+    "tags": ["Italian", "Salad", "Vegetarian"],
+    "author": "Luca Romano",
+    "ingredients": [
+      "3 tomatoes, sliced",
+      "250g mozzarella",
+      "Fresh basil leaves",
+      "Olive oil",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Arrange tomato and mozzarella slices on a plate.",
+      "Tuck basil leaves between slices.",
+      "Drizzle with olive oil and season with salt and pepper."
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Sushi Rolls",
+    "description": "Japanese rolled sushi with rice, nori, and various fillings.",
+    "cuisine": "japanese",
+    "date": "2024-08-07",
+    "image": "/assets/recipes/sushi-rolls.jpg",
+    "tags": ["Japanese", "Seafood", "Rice"],
+    "author": "Hiroshi Tanaka",
+    "ingredients": [
+      "2 cups sushi rice",
+      "Nori sheets",
+      "Fillings: salmon, cucumber, avocado",
+      "Rice vinegar",
+      "Soy sauce, wasabi"
+    ],
+    "instructions": [
+      "Cook sushi rice and season with rice vinegar.",
+      "Place nori on bamboo mat, spread rice evenly.",
+      "Add fillings, roll tightly, slice into pieces.",
+      "Serve with soy sauce and wasabi."
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Chicken Teriyaki",
+    "description": "Grilled chicken glazed with sweet and savory teriyaki sauce.",
+    "cuisine": "japanese",
+    "date": "2024-08-08",
+    "image": "/assets/recipes/chicken-teriyaki.jpeg",
+    "tags": ["Japanese", "Chicken", "Main Course"],
+    "author": "Akira Suzuki",
+    "ingredients": [
+      "300g chicken thighs",
+      "4 tbsp soy sauce",
+      "2 tbsp mirin",
+      "2 tbsp sugar",
+      "1 tbsp sake"
+    ],
+    "instructions": [
+      "Mix soy sauce, mirin, sugar, and sake for sauce.",
+      "Grill chicken until nearly done, brush with sauce.",
+      "Cook until glaze is sticky and chicken is cooked."
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Matcha Cheesecake",
+    "description": "Baked cheesecake flavored with Japanese matcha green tea.",
+    "cuisine": "japanese",
+    "date": "2024-08-09",
+    "image": "/assets/recipes/matcha-cheesecake.jpg",
+    "tags": ["Japanese", "Dessert", "Matcha"],
+    "author": "Yuki Nakamura",
+    "ingredients": [
+      "200g cream cheese",
+      "100g sugar",
+      "2 eggs",
+      "100ml cream",
+      "1 tbsp matcha powder",
+      "Biscuit base"
+    ],
+    "instructions": [
+      "Mix cream cheese and sugar until smooth.",
+      "Add eggs, cream, and matcha powder.",
+      "Pour over biscuit base in pan.",
+      "Bake at 160°C for 45 minutes."
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Kung Pao Chicken",
+    "description": "Spicy Chinese stir-fry with chicken, peanuts, and vegetables.",
+    "cuisine": "chinese",
+    "date": "2024-08-10",
+    "image": "/assets/recipes/kung-pao.jpg",
+    "tags": ["Chinese", "Chicken", "Spicy"],
+    "author": "Li Wei",
+    "ingredients": [
+      "300g chicken breast",
+      "1 red pepper, chopped",
+      "50g peanuts",
+      "2 tbsp soy sauce",
+      "1 tbsp chili paste",
+      "2 cloves garlic"
+    ],
+    "instructions": [
+      "Stir-fry chicken until golden.",
+      "Add garlic, chili paste, and pepper.",
+      "Stir in soy sauce and peanuts, cook for 2 minutes."
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Sweet and Sour Pork",
+    "description": "Crispy pork pieces in a tangy sweet and sour sauce.",
+    "cuisine": "chinese",
+    "date": "2024-08-11",
+    "image": "/assets/recipes/sweet-sour-pork.jpg",
+    "tags": ["Chinese", "Pork", "Main Course"],
+    "author": "Chen Yu",
+    "ingredients": [
+      "300g pork",
+      "1 red pepper",
+      "1 green pepper",
+      "100g pineapple chunks",
+      "3 tbsp sweet and sour sauce"
+    ],
+    "instructions": [
+      "Coat pork in flour and fry until crispy.",
+      "Stir-fry peppers, pineapple, and sauce.",
+      "Add pork, toss to coat."
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Spring Rolls",
+    "description": "Crispy rolls filled with vegetables and sometimes meat.",
+    "cuisine": "chinese",
+    "date": "2024-08-12",
+    "image": "/assets/recipes/spring-rolls.jpg",
+    "tags": ["Chinese", "Appetizer", "Vegetarian"],
+    "author": "Wang Mei",
+    "ingredients": [
+      "Spring roll wrappers",
+      "Shredded cabbage",
+      "Carrot, bean sprouts",
+      "Soy sauce",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Stir-fry vegetables with soy sauce.",
+      "Place filling on wrappers, roll tightly.",
+      "Fry until golden and crispy."
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Paella Valenciana",
+    "description": "Traditional Spanish rice dish with seafood, chicken, and vegetables.",
+    "cuisine": "spanish",
+    "date": "2024-08-13",
+    "image": "/assets/recipes/paella.jpeg",
+    "tags": ["Spanish", "Seafood", "Rice"],
+    "author": "Carlos Martinez",
+    "ingredients": [
+      "2 cups paella rice",
+      "200g chicken",
+      "200g seafood mix",
+      "1 red pepper",
+      "1 tsp saffron",
+      "4 cups chicken stock"
+    ],
+    "instructions": [
+      "Sauté chicken and vegetables.",
+      "Add rice, saffron, and stock.",
+      "Arrange seafood on top, cook until rice is done."
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Churros with Chocolate",
+    "description": "Fried dough pastry dusted with sugar and served with thick chocolate sauce.",
+    "cuisine": "spanish",
+    "date": "2024-08-14",
+    "image": "/assets/recipes/churros.jpg",
+    "tags": ["Spanish", "Dessert", "Sweet"],
+    "author": "Isabella Lopez",
+    "ingredients": [
+      "250ml water",
+      "2 tbsp sugar",
+      "1/2 tsp salt",
+      "2 tbsp oil",
+      "150g flour",
+      "Oil for frying",
+      "Sugar and cinnamon"
+    ],
+    "instructions": [
+      "Boil water, sugar, salt, and oil.",
+      "Stir in flour to form dough.",
+      "Pipe into hot oil, fry until golden.",
+      "Dust with sugar and cinnamon, serve with chocolate sauce."
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Spanish Omelette (Tortilla Española)",
+    "description": "Thick omelette with potatoes and onions.",
+    "cuisine": "spanish",
+    "date": "2024-08-15",
+    "image": "/assets/recipes/tortilla.jpg",
+    "tags": ["Spanish", "Breakfast", "Vegetarian"],
+    "author": "Miguel Garcia",
+    "ingredients": [
+      "4 eggs",
+      "2 potatoes, sliced",
+      "1 onion, sliced",
+      "Olive oil",
+      "Salt"
+    ],
+    "instructions": [
+      "Fry potatoes and onions in olive oil until soft.",
+      "Beat eggs, add cooked potatoes and onions.",
+      "Pour mixture into pan, cook until set."
+    ]
+  }
+]
